@@ -1,0 +1,6 @@
+framework module Pods_Assignmentt {
+  umbrella header "Pods-Assignmentt-umbrella.h"
+
+  export *
+  module * { export * }
+}
